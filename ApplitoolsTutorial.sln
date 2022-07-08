@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplitoolsTutorial", "ApplitoolsTutorial\ApplitoolsTutorial.csproj", "{E2A51DD0-EB96-4E33-90B3-679B912B0337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A51DD0-EB96-4E33-90B3-679B912B0337}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2A51DD0-EB96-4E33-90B3-679B912B0337}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2A51DD0-EB96-4E33-90B3-679B912B0337}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2A51DD0-EB96-4E33-90B3-679B912B0337}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7081F1-3834-471A-A01F-9969FF59ACFC}
+	EndGlobalSection
+EndGlobal
